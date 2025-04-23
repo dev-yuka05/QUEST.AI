@@ -6,6 +6,7 @@
 과제 제출 repo. 차후 오픈소스로 공개
 프로젝트에서 사용 가능 AI : LLaMA4 Scout, Grok 3, GPT-4.1 mini
 
-아이디어 있으신분 이슈로 남겨주세요
+아이디어 있으신분 이슈로 남겨주세요.
+Quest.AI는 Quest.AI로 만들었습니다!(?
 
 <img src="https://raw.githubusercontent.com/dev-yuka05/Quest-ai/refs/heads/main/images/v0.0.1.png" />
